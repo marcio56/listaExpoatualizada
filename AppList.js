@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function AppList() {
   return (
     <View style={styles.container}>
-      <Text>List!</Text>
+      <Text>ChampolaDev Marcio Alexsandro</Text>
       <StatusBar style="light" />
     </View>
   );
